@@ -1,7 +1,7 @@
 # sptel-iot-rest-client
 A Simple REST API client based on Node JS to send data to SPTel IoT Platform
 
-*Install NodeJS in your machine and follow the below steps*
+*Install NodeJS in your machine, Raspberry Pi or any of your IoT gateways and follow the below steps*
 
 
 Clone the github repository and change to the project directory
